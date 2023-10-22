@@ -1,6 +1,6 @@
 <h1>Hey, how's it going?</h1>
 
-My name is <a href="www.linkedin.com/in/brandon-whitman-orlin">Brandon</a> and I'm a Full Stack Developer and computer enthusiast with a Computer Science degree from Penn State Abington.
+My name is <a href="https://www.linkedin.com/in/brandon-whitman-orlin/">Brandon</a> and I'm a Full Stack Developer and computer enthusiast with a Computer Science degree from Penn State Abington.
 
 I am currently employed at <a href="https://quadconsultation.com/">Quad Consultation</a> where I work as a freelance front-end developer for small and medium sized businesses.
 
