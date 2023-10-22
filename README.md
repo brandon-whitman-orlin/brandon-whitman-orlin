@@ -1,8 +1,8 @@
 <h1>Hey, how's it going?</h1>
 
-My name is <a href="https://www.linkedin.com/in/brandon-whitman-orlin/">Brandon</a> and I'm a Full Stack Developer and computer enthusiast with a Computer Science degree from Penn State Abington.
+My name is <a href="https://www.linkedin.com/in/brandon-whitman-orlin/" target="_blank">Brandon</a> and I'm a Full Stack Developer and computer enthusiast with a Computer Science degree from Penn State Abington.
 
-I am currently employed at <a href="https://quadconsultation.com/">Quad Consultation</a> where I work as a freelance front-end developer for small and medium sized businesses.
+I am currently employed at <a href="https://quadconsultation.com/" target="_blank">Quad Consultation</a> where I work as a freelance front-end developer for small and medium sized businesses.
 
 <h2>Top Skills</h2>
 <div style="display:grid; grid-template-columns:repeat(4,40px); gap:1rem">
@@ -22,4 +22,4 @@ I am currently employed at <a href="https://quadconsultation.com/">Quad Consulta
 </div>
 
 <br />
-<p>To learn more or to contact me, find me at my website <a href="https://woahcodes.com/">here</a>.</p>
+<p>To learn more or to contact me, find me at my website <a href="https://woahcodes.com/" target="_blank">here</a>.</p>
