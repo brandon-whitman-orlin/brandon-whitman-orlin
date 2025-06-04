@@ -9,7 +9,7 @@
 
 <h3 style="border-bottom:none">🚀 Currently working on</h3>
 <p>Polishing my <a href="https://woahcodes.com/"  target="_blank" rel="noopener noreferrer">Personal Portfolio</a> — go check it out!  </p>
-<p>You can read more about my dev thoughts on my <a href="https://woahcodes.com/blog/"  target="_blank" rel="noopener noreferrer">blog</a>📝</p>
+<p>You can read more about my work and other fun stuff on my <a href="https://woahcodes.com/blog/"  target="_blank" rel="noopener noreferrer">blog</a>📝</p>
 
 <h3 style="border-bottom:none">🌐 Let's Connect!</h3>
 <p>Feel free to reach out or explore more of my work through my website:</p>
